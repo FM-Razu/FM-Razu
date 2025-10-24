@@ -39,7 +39,8 @@ I'm a Nuclear Engineering graduate from the University of Dhaka, Bangladesh, pas
 
 Feel free to connect with me on LinkedIn or explore my projects on GitHub. I'm always open to discussing nuclear engineering, computational modeling, and potential collaborations.
 
-* LinkedIn: [www.linkedin.com/in/fahim-mahmud-razu](www.linkedin.com/in/fahim-mahmud-razu)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/fahim-mahmud-razu)
+
 * GitHub: [https://github.com/FM-Razu](https://github.com/FM-Razu)
 
 Thanks for visiting my profile!
